@@ -6,7 +6,7 @@ You can also add it as a web app on your mobile device!
 
 
 ## Screenshot
-![Offline Budget Tracker](images/screenshot.png)
+![Offline Budget Tracker](public/images/screenshot.png)
 
 
 ## Built With
